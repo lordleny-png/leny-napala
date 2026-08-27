@@ -1,6 +1,6 @@
 # leny-napala
 ## 🚀 Featured Projects
-## ### 💬 Customer Review Sentiment Analysis
+##  💬 Customer Review Sentiment Analysis
 
 A Natural Language Processing (NLP) project focused on analyzing customer reviews and automatically classifying their sentiment as **positive, negative, or neutral**.
 
