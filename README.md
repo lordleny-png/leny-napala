@@ -17,7 +17,7 @@ A Natural Language Processing (NLP) project focused on analyzing customer review
 
 ## 🚀 Featured Projects
 
-### 💳 Microcredit Scoring
+### 💳 Microcredit Scoring: CREDITIA-Microcredit-Scoring
 
 Developed a machine learning model to predict credit risk and support microcredit decision-making.
 
