@@ -1,5 +1,16 @@
 # leny-napala
 ## 🚀 Featured Projects
+### 💳 Microcredit Scoring: CREDITIA-Microcredit-Scoring
+
+Developed a machine learning model to predict credit risk and support microcredit decision-making.
+
+**Tools:** Python · Pandas · Scikit-learn · XGBoost · Machine Learning
+### **💳 Credit Card Fraud Detection: Credit-Card-Fraud-Detection**
+
+Developed a machine learning model to detect potentially fraudulent credit card transactions and support fraud risk management.
+
+**Tools:** Python · Pandas · Scikit-learn · Random Forest · XGBoost · SMOTE · Streamlit · Machine Learning
+
 ##  💬 Customer Review Sentiment Analysis
 
 A Natural Language Processing (NLP) project focused on analyzing customer reviews and automatically classifying their sentiment as **positive, negative, or neutral**.
@@ -15,25 +26,12 @@ A Natural Language Processing (NLP) project focused on analyzing customer review
 * Sentiment classification
 * Model evaluation and visualization
 
-## 🚀 Featured Projects
-
-### 💳 Microcredit Scoring: CREDITIA-Microcredit-Scoring
-
-Developed a machine learning model to predict credit risk and support microcredit decision-making.
-
-**Tools:** Python · Pandas · Scikit-learn · XGBoost · Machine Learning
 
 ### 📉 Customer Churn Prediction
 
 Built a predictive model to identify customers at risk of churn and analyze the factors influencing customer retention.
 
 **Tools:** Python · Pandas · Scikit-learn · Machine Learning · Data Visualization
-
-### 💬 Customer Review Sentiment Analysis
-
-Developed an NLP solution to analyze customer reviews and classify sentiment as positive, negative, or neutral.
-
-**Tools:** Python · Pandas · NLTK · Scikit-learn · NLP
 
 ### 📊 Cohort Analysis Report
 
