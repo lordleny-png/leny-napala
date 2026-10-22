@@ -5,7 +5,6 @@
 Developed a machine learning model to predict credit risk and support microcredit decision-making.
 
 **Tools:** Python · Pandas · Scikit-learn · XGBoost · Machine Learning
- **[Live Dashboard](https://retail-inventory-optimization-egjzo4vvqsdx42qkvpuycb.streamlit.app/)*
 
 ### **💳 Credit Card Fraud Detection: Credit-Card-Fraud-Detection**
 
