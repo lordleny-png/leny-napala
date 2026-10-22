@@ -12,7 +12,7 @@ Developed a machine learning model to detect potentially fraudulent credit card 
 **Tools:** Python · Pandas · Scikit-learn · Random Forest · XGBoost · SMOTE · Streamlit · Machine Learning
 
 
-**### 📦 Retail Inventory Optimization: retail-inventory-optimization**
+### 📦 Retail Inventory Optimization: retail-inventory-optimization
 
 Developed an interactive business analytics dashboard to analyze retail sales performance, monitor inventory levels, evaluate demand forecast errors, and identify potential stockout and overstock risks.
 
