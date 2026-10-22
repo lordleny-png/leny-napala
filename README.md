@@ -73,4 +73,4 @@ Analyzed historical stock and revenue data to identify trends, patterns, and per
 
 Various projects involving data cleaning, exploratory analysis, visualization, SQL queries, and business insights.
 
-* Python · SQL · Excel · Power BI
+**Tools:**  Python · SQL · Excel · Power BI
