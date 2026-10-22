@@ -12,7 +12,7 @@ Developed a machine learning model to predict credit risk and support microcredi
 Developed a machine learning model to detect potentially fraudulent credit card transactions and support fraud risk management.
 
 **Tools:** Python · Pandas · Scikit-learn · Random Forest · XGBoost · SMOTE · Streamlit · Machine Learning
- **[Live Dashboard](https://retail-inventory-optimization-egjzo4vvqsdx42qkvpuycb.streamlit.app/)*
+ **[Live Dashboard](https://fraud-detection-using-machine-learning-p5vvulvohoqhlkztnkjpuv.streamlit.app)*
 
 
 
