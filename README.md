@@ -12,7 +12,7 @@ Developed a machine learning model to detect potentially fraudulent credit card 
 
 **Tools:** Python · Pandas · Scikit-learn · Random Forest · XGBoost · SMOTE · Streamlit · Machine Learning
  
-🔗**[Live Dashboard](https://fraud-detection-using-machine-learning-p5vvulvohoqhlkztnkjpuv.streamlit.app)**
+🔗 **[Live Dashboard](https://fraud-detection-using-machine-learning-p5vvulvohoqhlkztnkjpuv.streamlit.app)**
 
 
 
