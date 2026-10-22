@@ -5,11 +5,15 @@
 Developed a machine learning model to predict credit risk and support microcredit decision-making.
 
 **Tools:** Python · Pandas · Scikit-learn · XGBoost · Machine Learning
+ **[Live Dashboard](https://retail-inventory-optimization-egjzo4vvqsdx42qkvpuycb.streamlit.app/)*
+
 ### **💳 Credit Card Fraud Detection: Credit-Card-Fraud-Detection**
 
 Developed a machine learning model to detect potentially fraudulent credit card transactions and support fraud risk management.
 
 **Tools:** Python · Pandas · Scikit-learn · Random Forest · XGBoost · SMOTE · Streamlit · Machine Learning
+ **[Live Dashboard](https://retail-inventory-optimization-egjzo4vvqsdx42qkvpuycb.streamlit.app/)*
+
 
 
 ### 📦 Retail Inventory Optimization: retail-inventory-optimization
@@ -42,6 +46,8 @@ A Natural Language Processing (NLP) project focused on analyzing customer review
 Built a predictive model to identify customers at risk of churn and analyze the factors influencing customer retention.
 
 **Tools:** Python · Pandas · Scikit-learn · Machine Learning · Data Visualization
+ **[Live Dashboard]()*
+
 
 ### 📊 Cohort Analysis Report
 
