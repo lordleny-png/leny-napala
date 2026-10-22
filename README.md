@@ -46,6 +46,8 @@ A Natural Language Processing (NLP) project focused on analyzing customer review
 Built a predictive model to identify customers at risk of churn and analyze the factors influencing customer retention.
 
 **Tools:** Python · Pandas · Scikit-learn · Machine Learning · Data Visualization
+
+
  🔗 **[Live Dashboard](https://customer-churn-prediction-byx3hofdya5lhgkkpsfcvz.streamlit.app/)**
 
 
