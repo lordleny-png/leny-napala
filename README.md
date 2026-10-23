@@ -64,7 +64,7 @@ Developed an interactive financial analytics dashboard to compare budgeted and a
 **Tools:** Python · Pandas · Streamlit · Plotly · Matplotlib · Financial Analysis · Data Visualization
 
 🔗 [**GitHub Repository**](https://github.com/lordleny-png/Budget-vs-Actual-Analysis)  
-🔗 **Live Dashboard:** *https://budget-vs-actual-analysis-bvkcg5ux3bsnme5wgej3rs.streamlit.app/*
+🔗 **Live Dashboard:https://budget-vs-actual-analysis-bvkcg5ux3bsnme5wgej3rs.streamlit.app/**
 
 **Tools:** Excel · Power BI · Data Analysis · Data Visualization
 
