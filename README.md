@@ -51,11 +51,6 @@ Built a predictive model to identify customers at risk of churn and analyze the 
  🔗 **[Live Dashboard](https://customer-churn-prediction-byx3hofdya5lhgkkpsfcvz.streamlit.app/)**
 
 
-### 📊 Cohort Analysis Report
-
-Analyzed customer retention and purchasing behavior over time using cohort analysis to identify retention patterns and customer trends.
-
-**Tools:** Python · Pandas · Matplotlib · Data Analysis
 
 ### 📊 Budget vs Actual Analysis: Budget-vs-Actual-Analysis
 
@@ -67,6 +62,13 @@ Developed an interactive financial analytics dashboard to compare budgeted and a
 🔗 **[Live Dashboard](https://budget-vs-actual-analysis-bvkcg5ux3bsnme5wgej3rs.streamlit.app/)**
 
 **Tools:** Excel · Power BI · Data Analysis · Data Visualization
+
+### 📊 Cohort Analysis Report
+
+Analyzed customer retention and purchasing behavior over time using cohort analysis to identify retention patterns and customer trends.
+
+**Tools:** Python · Pandas · Matplotlib · Data Analysis
+
 
 ### 📈 Historical Stock Revenue Analysis
 
