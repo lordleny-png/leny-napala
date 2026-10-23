@@ -57,9 +57,14 @@ Analyzed customer retention and purchasing behavior over time using cohort analy
 
 **Tools:** Python · Pandas · Matplotlib · Data Analysis
 
-### 💰 Budget vs Actual Analysis
+### 📊 Budget vs Actual Analysis: Budget-vs-Actual-Analysis
 
-Analyzed budgeted versus actual financial performance to identify variances, trends, and areas requiring management attention.
+Developed an interactive financial analytics dashboard to compare budgeted and actual expenses, monitor spending variances, and identify overspending and cost-saving opportunities.
+
+**Tools:** Python · Pandas · Streamlit · Plotly · Matplotlib · Financial Analysis · Data Visualization
+
+🔗 [**GitHub Repository**](https://github.com/lordleny-png/Budget-vs-Actual-Analysis)  
+🔗 **Live Dashboard:** *https://budget-vs-actual-analysis-bvkcg5ux3bsnme5wgej3rs.streamlit.app/*
 
 **Tools:** Excel · Power BI · Data Analysis · Data Visualization
 
