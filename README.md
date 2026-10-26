@@ -47,6 +47,16 @@ A Natural Language Processing (NLP) project focused on analyzing customer review
 * Feature extraction from customer reviews
 * Sentiment classification
 * Model evaluation and visualization
+### 🛍️ Customer Segmentation using RFM — ClientScope RFM
+
+Developed a customer segmentation pipeline using the RFM (Recency, Frequency, Monetary Value) framework and clustering techniques on the UCI Online Retail II transaction dataset to identify customer groups and support targeted marketing strategies, customer retention, and business decision-making.
+
+**Program:** TAISS 2026 — Data Science, Track F1
+
+**Tools:** Python · Pandas · Scikit-learn · K-Means Clustering · Jupyter Notebook · ChromaDB · RAG
+
+🔗 **Dataset:** [UCI Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii) · **Repository:** [ClientScope RFM](https://github.com/lordleny-png/client-scope-rfm-project)
+
 
 
 ### 📉 Customer Churn Prediction
