@@ -6,7 +6,7 @@ Developed an interactive business analytics dashboard to analyze bank deposit di
 
 **Tools:** Python · Pandas · Streamlit · Plotly · Data Visualization · Business Analytics
 
-🔗 [**Live Dashboard**](https://bankingbranchperformanceanalytics-iznjueoncuiuwqdqjl6wey.streamlit.app/) · [**GitHub Repository**](YOUR_GITHUB_REPOSITORY_URL)
+🔗 [**Live Dashboard**](https://bankingbranchperformanceanalytics-iznjueoncuiuwqdqjl6wey.streamlit.app/) · [**GitHub Repository**](https://github.com/lordleny-png/BANKING_BRANCH_PERFORMANCE_ANALYTICS)
 
 ### 💳 Microcredit Scoring: CREDITIA-Microcredit-Scoring
 
