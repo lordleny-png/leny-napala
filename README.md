@@ -1,5 +1,13 @@
 # leny-napala
 ## 🚀 Featured Projects
+### 🏦 Banking Branch Performance Analytics
+
+Developed an interactive business analytics dashboard to analyze bank deposit distribution, compare financial institutions and states, assess market concentration using the Herfindahl–Hirschman Index (HHI), and generate data-driven business recommendations.
+
+**Tools:** Python · Pandas · Streamlit · Plotly · Data Visualization · Business Analytics
+
+🔗 [**Live Dashboard**](https://bankingbranchperformanceanalytics-iznjueoncuiuwqdqjl6wey.streamlit.app/) · [**GitHub Repository**](YOUR_GITHUB_REPOSITORY_URL)
+
 ### 💳 Microcredit Scoring: CREDITIA-Microcredit-Scoring
 
 Developed a machine learning model to predict credit risk and support microcredit decision-making.
